@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/dm5.gazebo.01.obj-1b27513344cc21efe522c99320f8890d.mesh"
+
+[deps]
+
+files=[ "res://.import/dm5.gazebo.01.obj-1b27513344cc21efe522c99320f8890d.mesh" ]
+
+source_file="res://objects/dm5.gazebo.01.obj"
+dest_files=[ "res://.import/dm5.gazebo.01.obj-1b27513344cc21efe522c99320f8890d.mesh", "res://.import/dm5.gazebo.01.obj-1b27513344cc21efe522c99320f8890d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286
